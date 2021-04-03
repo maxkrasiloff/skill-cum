@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.23b8c576.chunk.css",
+    "main.js": "./static/js/main.f7566e1c.chunk.js",
+    "main.js.map": "./static/js/main.f7566e1c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.631ffdaa.js",
+    "runtime-main.js.map": "./static/js/runtime-main.631ffdaa.js.map",
+    "static/js/2.2b940df6.chunk.js": "./static/js/2.2b940df6.chunk.js",
+    "static/js/2.2b940df6.chunk.js.map": "./static/js/2.2b940df6.chunk.js.map",
+    "static/js/3.bd10022b.chunk.js": "./static/js/3.bd10022b.chunk.js",
+    "static/js/3.bd10022b.chunk.js.map": "./static/js/3.bd10022b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.23b8c576.chunk.css.map": "./static/css/main.23b8c576.chunk.css.map",
+    "static/js/2.2b940df6.chunk.js.LICENSE.txt": "./static/js/2.2b940df6.chunk.js.LICENSE.txt",
+    "static/media/girl_insta.7e47be1d.png": "./static/media/girl_insta.7e47be1d.png",
+    "static/media/girl_onlyfuns.0e07fea3.png": "./static/media/girl_onlyfuns.0e07fea3.png",
+    "static/media/girl_pornhub.22bc473b.png": "./static/media/girl_pornhub.22bc473b.png",
+    "static/media/girl_strimmer.912339f3.png": "./static/media/girl_strimmer.912339f3.png",
+    "static/media/girl_vuz.560c80d7.png": "./static/media/girl_vuz.560c80d7.png",
+    "static/media/girl_webcam.0161e589.svg": "./static/media/girl_webcam.0161e589.svg",
+    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg",
+    "static/media/tik_tok_logo.cd98fc8c.png": "./static/media/tik_tok_logo.cd98fc8c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.631ffdaa.js",
+    "static/js/2.2b940df6.chunk.js",
+    "static/css/main.23b8c576.chunk.css",
+    "static/js/main.f7566e1c.chunk.js"
+  ]
+}
